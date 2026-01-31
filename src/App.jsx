@@ -239,7 +239,7 @@ const Hero = () => {
             </svg>
             
             <div className="relative z-10 w-full h-full rounded-[40px] md:rounded-[60px] overflow-hidden border-8 md:border-[16px] border-white shadow-2xl rotate-2 group-hover:rotate-0 transition-all duration-700">
-              <img src="/assets/IMG_4548.JPG" alt="Profile" className="w-full h-full object-cover scale-110 group-hover:scale-100 transition-transform duration-1000" />
+              <img src="./assets/IMG_4548.JPG" alt="Profile" className="w-full h-full object-cover scale-110 group-hover:scale-100 transition-transform duration-1000" />
               <div className="absolute inset-0 bg-blue-600/10 group-hover:bg-transparent transition-colors"></div>
             </div>
           </div>
